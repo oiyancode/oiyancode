@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @oiyancode
-- 👀 I’m interested in program
-- 🌱 I’m currently learning front-end
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me? 
-- 😄 Pronouns: Strong
-- ⚡ Fun fact: No one knows what the clown's mind is doing
+# Hi there, I'm Jadson Yan 👋 
 
-<!---
-oiyancode/oiyancode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 I’m currently learning everything 💻🧐
+- 👯 I’m looking to collaborate with other creators
+- 🥅 2025 Goals: Ship more!!
+- ⚡ Fun fact: I love to study and play video games
+
+### Languages and Tools:
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
