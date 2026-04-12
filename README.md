@@ -1,6 +1,6 @@
 # 🚀 Hello World! 
 
-## I'm Jadson Yan, FrontEnd Developer & IA Enthusiast 👩‍💻✨
+## I'm Jadson Yan, Front-End Developer & Tech Enthusiast 👩‍💻✨
 
 > A very curious person who loves learning new languages ​​to explore the world, transforming ideas into amazing solutions and designs, one line of code at a time. Want to collaborate on something incredible?
 
