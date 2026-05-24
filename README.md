@@ -1,8 +1,8 @@
 # 🚀 Hello World! 
 
-## I'm Jadson Yan, Front-End Developer & Tech Enthusiast 👩‍💻✨
+## I'm Jadson Yan, Front-End Developer & Automation Enthusiast 👨‍💻✨
 
-> A very curious person who loves learning new languages ​​to explore the world, transforming ideas into amazing solutions and designs, one line of code at a time. Want to collaborate on something incredible?
+> A very curious person who loves learning new languages ​​to explore the world, transforming ideas into amazing solutions and designs, one line of code at a time. Actively bridging the gap between stunning 3D interfaces and intelligent automated workflows. Want to collaborate on something incredible?
 
 ## 💻 FrontEnd:
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
@@ -12,9 +12,11 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![GSAP](https://img.shields.io/badge/GSAP-%2388CE02.svg?style=for-the-badge&logo=greensock&logoColor=black)
 
-## ⚙️BackEnd:
+## ⚙️ BackEnd & Automation:
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-%23FF6C37.svg?style=for-the-badge&logo=n8n&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ## 🎨 Design:
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
