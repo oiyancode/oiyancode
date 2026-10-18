@@ -7,16 +7,16 @@
 ## 🌟 Featured Projects
 
 **[Impact Store](https://github.com/oiyancode/Impact_Store_TCC)** — Interactive e-commerce experience with Three.js/GSAP (Ford Enter TCC).
+[`code`](https://github.com/oiyancode/Impact_Store_TCC)
 
 **[EducaFavela](https://educa-favela.vercel.app/)** — NGO website for community education. Angular 19 + Signals + GSAP.
 
 **[Planej.ai](https://planejais.vercel.app/)** — AI-powered personal finance planner. React 19 + TypeScript + Gemini API, multi-step form, localStorage persistence, light/dark theme.
 [`code`](https://github.com/oiyancode/planejai)
 
-**[Prompts Manager](https://github.com/oiyancode/Prompts_manager)** — Web app to organize AI prompts in one place.
+**[Prompts Manager](https://devprompts-manager.vercel.app/)** — Web app to organize AI prompts in one place.
+[`code`](https://github.com/oiyancode/Prompts_manager)
 
-**Sigurd** *(in progress)* — Multi-tenant SaaS document management tool. React + Supabase + n8n + Gemini API (OCR).
-[`code`](https://github.com/oiyancode/sigurd-research)
 
 ## 💻 FrontEnd
 
